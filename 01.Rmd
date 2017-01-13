@@ -1,0 +1,39 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+Inline math with dollar signs `$` as in $\pi r^2$
+
+
+Mathematical display with `\[` and `\]`, as in
+\[
+e^{i \pi} = -1
+\]
+
+alpha $\alpha$
+
+gamma $\gamma$ and $\Gamma$
+
+
+This is math mode $math mode$.  No spaces. Have to add it yourself.
+
+Mathematical symbols:
+
+$\times$ as in $A \times b$
+
+`\cdot` as in $A \cdot B$
+
+`\leftarrow` as in $A \leftarrow C$
+
+`\approx` as in $1.001 \approx 1.0$
+
+`^` for superscripts as in $a^2$ or $x^{(1)}$
+
+`_` for subscripts as in $a_1$ or $x_{ij}$
+
+
+
+
